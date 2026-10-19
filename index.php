@@ -10,4 +10,3 @@
     <a href="member_add.html">会員登録</a>
   </body>
 </html>
-index.php
